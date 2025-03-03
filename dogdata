@@ -4,28 +4,28 @@
     "age": 4,
     "breed": "Mastiff",
     "temperament": "Calm, Gentle, Protective",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/14935940/pexels-photo-14935940.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "name": "Bella",
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/28707910/pexels-photo-28707910/free-photo-of-adorable-small-fluffy-dog-sitting-for-portrait.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "name": "Max",
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/17880516/pexels-photo-17880516/free-photo-of-white-volpino-dog.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "name": "Charlie",
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/27772214/pexels-photo-27772214/free-photo-of-dog-lying-in-grass.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "name": "Lucy",
