@@ -32,13 +32,13 @@
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/16622888/pexels-photo-16622888/free-photo-of-portrait-of-a-black-and-white-terrier.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "name": "Daisy",
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://images.pexels.com/photos/13339125/pexels-photo-13339125.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   }
 ]
