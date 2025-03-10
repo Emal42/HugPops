@@ -4,21 +4,21 @@
     "age": 4,
     "breed": "Mastiff",
     "temperament": "Calm, Gentle, Protective",
-    "image_url": "https://images.pexels.com/photos/14935940/pexels-photo-14935940.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "image_url": "/assets/dog2.jpg"
   },
   {
     "name": "Bella",
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "https://images.pexels.com/photos/28707910/pexels-photo-28707910/free-photo-of-adorable-small-fluffy-dog-sitting-for-portrait.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    "image_url": "/assets/dog3.webp"
   },
   {
     "name": "Max",
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "https://images.pexels.com/photos/17880516/pexels-photo-17880516/free-photo-of-white-volpino-dog.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    "image_url": "/assets/dog4.webp"
   },
   {
     "name": "Charlie",
@@ -32,13 +32,13 @@
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "https://images.pexels.com/photos/16622888/pexels-photo-16622888/free-photo-of-portrait-of-a-black-and-white-terrier.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    "image_url": "/assets/dog6.jpg"
   },
   {
     "name": "Daisy",
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "https://images.pexels.com/photos/13339125/pexels-photo-13339125.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    "image_url": "/assets/dog5.webp"
   }
 ]
