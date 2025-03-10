@@ -25,7 +25,7 @@
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "https://images.pexels.com/photos/27772214/pexels-photo-27772214/free-photo-of-dog-lying-in-grass.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    "image_url": "/assets/dog1.jpg"
   },
   {
     "name": "Lucy",
